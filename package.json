@@ -1,0 +1,29 @@
+{
+	"name": "timestamp-microservice-mrtechnosmith",
+	"version": "0.0.1",
+	"description": "An FCC Backend Challenge for freeCodeCamp.org",
+	"author": "mrtechnosmith",
+	"website": "https://technosmith.anshulgautam.in",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"cors": "^2.8.0",
+		"express": "^4.12.4"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mrtechnosmith/timestamp-microservice-freecodecamp.git"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express",
+		"freecodecamp"
+	],
+	"license": "MIT"
+}
